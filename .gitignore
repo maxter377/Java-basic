@@ -1,4 +1,4 @@
-ch1_variables
+src/ch1_variables
 ch2_if
 ch3_switch
 ch4_forLoop
@@ -14,3 +14,4 @@ ch13_static
 ch14_ObjectAsField
 ch15_random
 ch16_finaldemo
+/src/Main.java
